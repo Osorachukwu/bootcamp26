@@ -4,6 +4,7 @@ function Home() {
   return (
     <div>
       Home
+      Ijust arrived
     </div>
   )
 }
